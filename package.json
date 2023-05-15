@@ -1,0 +1,22 @@
+{
+  "name": "find-trackers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cheerio": "^0.22.31",
+    "@types/node": "^20.1.4",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^10.0.1"
+  },
+  "devDependencies": {
+    "@types/commander": "^2.12.2"
+  }
+}
