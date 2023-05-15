@@ -13,4 +13,7 @@ cd find-trackers
 npm install 
 npx ts-node index.ts reddit.com
 ```
+Below is what the output should look like
+![ShoT_2023-05-15-11-48-31_1920x1080](https://github.com/viraj-s15/find-trackers/assets/79002760/5fa2163b-dd6f-44a9-947c-8409b7ea6079)
+
 
